@@ -1,0 +1,145 @@
+"request","table","analysis","metric","subset","value.1","value.2","value.3","value.4","value.5","spread"
+1,"6a_power","1","Power","H1",0.8692,0.8692,0.8692,0.8692,0.8692,0
+1,"6a_power","1","Power","H2",0.2908,0.2908,0.2908,0.2908,0.2908,0
+1,"6a_power","1","Power","H3",0.1363,0.1363,0.1363,0.1363,0.1363,0
+1,"6a_power","1","Probability of success for at least one Hi","H1, H2",0.8987,0.8987,0.8987,0.8987,0.8987,0
+1,"6a_power","1","Probability of success for at least one Hi","H1, H2, H3",0.8987,0.8987,0.8987,0.8987,0.8987,0
+1,"6a_power","1","Probability of success for all Hi","H1, H2, H3",0.1284,0.1284,0.1284,0.1284,0.1284,0
+1,"6a_power","2","Power","H1",0.8965,0.8965,0.8965,0.8965,0.8965,0
+1,"6a_power","2","Power","H2",0.7157,0.7157,0.7157,0.7157,0.7157,0
+1,"6a_power","2","Power","H3",0.6241,0.6241,0.6241,0.6241,0.6241,0
+1,"6a_power","2","Probability of success for at least one Hi","H1, H2",0.9493,0.9493,0.9493,0.9493,0.9493,0
+1,"6a_power","2","Probability of success for at least one Hi","H1, H2, H3",0.9493,0.9493,0.9493,0.9493,0.9493,0
+1,"6a_power","2","Probability of success for all Hi","H1, H2, H3",0.5868,0.5868,0.5868,0.5868,0.5868,0
+1,"6a_power","3","Power","H1",0.9064,0.9064,0.9064,0.9064,0.9064,0
+1,"6a_power","3","Power","H2",0.8143,0.8143,0.8143,0.8143,0.8143,0
+1,"6a_power","3","Power","H3",0.753,0.753,0.753,0.753,0.753,0
+1,"6a_power","3","Probability of success for at least one Hi","H1, H2",0.9656,0.9656,0.9656,0.9656,0.9656,0
+1,"6a_power","3","Probability of success for at least one Hi","H1, H2, H3",0.9656,0.9656,0.9656,0.9656,0.9656,0
+1,"6a_power","3","Probability of success for all Hi","H1, H2, H3",0.7051,0.7051,0.7051,0.7051,0.7051,0
+1,"6a_power","4","Power","H1",0.9177,0.9177,0.9177,0.9177,0.9177,0
+1,"6a_power","4","Power","H2",0.9215,0.9215,0.9215,0.9215,0.9215,0
+1,"6a_power","4","Power","H3",0.8935,0.8935,0.8935,0.8935,0.8935,0
+1,"6a_power","4","Probability of success for at least one Hi","H1, H2",0.984,0.984,0.984,0.984,0.984,0
+1,"6a_power","4","Probability of success for at least one Hi","H1, H2, H3",0.984,0.984,0.984,0.984,0.984,0
+1,"6a_power","4","Probability of success for all Hi","H1, H2, H3",0.8341,0.8341,0.8341,0.8341,0.8341,0
+1,"6b_timing","overall","Expected Success Analysis ","H1",1.08826413860739,1.08826413860739,1.08826413860739,1.08826413860739,1.08826413860739,0
+1,"6b_timing","overall","Expected Success Analysis ","H2",2.02409115572436,2.02409115572436,2.02409115572436,2.02409115572436,2.02409115572436,0
+1,"6b_timing","overall","Expected Success Analysis ","H3",2.30621152770006,2.30621152770006,2.30621152770006,2.30621152770006,2.30621152770006,0
+1,"6b_timing","overall","Expected Success Analysis (at least one Hi)","H1, H2",1.14065040650407,1.14065040650407,1.14065040650407,1.14065040650407,1.14065040650407,0
+1,"6b_timing","overall","Expected Success Analysis (at least one Hi)","H1, H2, H3",1.14065040650407,1.14065040650407,1.14065040650407,1.14065040650407,1.14065040650407,0
+1,"6b_timing","overall","Expected Success Analysis (for all Hi)","H1, H2, H3",2.29720656995564,2.29720656995564,2.29720656995564,2.29720656995564,2.29720656995564,0
+1,"6b_timing","overall","Expected Success Time","H1",28.6039096415909,28.6039096415909,28.6039096415909,28.6039096415909,28.6039096415909,0
+1,"6b_timing","overall","Expected Success Time","H2",34.6271374083784,34.6271374083784,34.6271374083784,34.6271374083784,34.6271374083784,0
+1,"6b_timing","overall","Expected Success Time","H3",36.5828571505211,36.5828571505211,36.5828571505211,36.5828571505211,36.5828571505211,0
+1,"6b_timing","overall","Expected Success Time (at least one Hi)","H1, H2",28.9491496422163,28.9491496422163,28.9491496422163,28.9491496422163,28.9491496422163,0
+1,"6b_timing","overall","Expected Success Time (at least one Hi)","H1, H2, H3",28.9491496422163,28.9491496422163,28.9491496422163,28.9491496422163,28.9491496422163,0
+1,"6b_timing","overall","Expected Success Time (for all Hi)","H1, H2, H3",36.5013972175488,36.5013972175488,36.5013972175488,36.5013972175488,36.5013972175488,0
+2,"6a_power","1","Power","H1",0.874,0.874,0.874,0.874,0.874,0
+2,"6a_power","1","Power","H2",0.142,0.142,0.142,0.142,0.142,0
+2,"6a_power","1","Power","H3",0.069,0.069,0.069,0.069,0.069,0
+2,"6a_power","1","Probability of success for at least one Hi","H1, H2",0.894,0.894,0.894,0.894,0.894,0
+2,"6a_power","1","Probability of success for at least one Hi","H1, H2, H3",0.894,0.894,0.894,0.894,0.894,0
+2,"6a_power","1","Probability of success for all Hi","H1, H2, H3",0.064,0.064,0.064,0.064,0.064,0
+2,"6a_power","2","Power","H1",0.898,0.898,0.898,0.898,0.898,0
+2,"6a_power","2","Power","H2",0.501,0.501,0.501,0.501,0.501,0
+2,"6a_power","2","Power","H3",0.426,0.426,0.426,0.426,0.426,0
+2,"6a_power","2","Probability of success for at least one Hi","H1, H2",0.933,0.933,0.933,0.933,0.933,0
+2,"6a_power","2","Probability of success for at least one Hi","H1, H2, H3",0.933,0.933,0.933,0.933,0.933,0
+2,"6a_power","2","Probability of success for all Hi","H1, H2, H3",0.405,0.405,0.405,0.405,0.405,0
+2,"6a_power","3","Power","H1",0.908,0.908,0.908,0.908,0.908,0
+2,"6a_power","3","Power","H2",0.622,0.622,0.622,0.622,0.622,0
+2,"6a_power","3","Power","H3",0.572,0.572,0.572,0.572,0.572,0
+2,"6a_power","3","Probability of success for at least one Hi","H1, H2",0.951,0.951,0.951,0.951,0.951,0
+2,"6a_power","3","Probability of success for at least one Hi","H1, H2, H3",0.951,0.951,0.951,0.951,0.951,0
+2,"6a_power","3","Probability of success for all Hi","H1, H2, H3",0.54,0.54,0.54,0.54,0.54,0
+2,"6a_power","4","Power","H1",0.913,0.913,0.913,0.913,0.913,0
+2,"6a_power","4","Power","H2",0.719,0.719,0.719,0.719,0.719,0
+2,"6a_power","4","Power","H3",0.68,0.68,0.68,0.68,0.68,0
+2,"6a_power","4","Probability of success for at least one Hi","H1, H2",0.962,0.962,0.962,0.962,0.962,0
+2,"6a_power","4","Probability of success for at least one Hi","H1, H2, H3",0.962,0.962,0.962,0.962,0.962,0
+2,"6a_power","4","Probability of success for all Hi","H1, H2, H3",0.639,0.639,0.639,0.639,0.639,0
+2,"6b_timing","overall","Expected Success Analysis ","H1",1.06462212486309,1.06462212486309,1.06462212486309,1.06462212486309,1.06462212486309,0
+2,"6b_timing","overall","Expected Success Analysis ","H2",2.24061196105702,2.24061196105702,2.24061196105702,2.24061196105702,2.24061196105702,0
+2,"6b_timing","overall","Expected Success Analysis ","H3",2.43088235294118,2.43088235294118,2.43088235294118,2.43088235294118,2.43088235294118,0
+2,"6b_timing","overall","Expected Success Analysis (at least one Hi)","H1, H2",1.11226611226611,1.11226611226611,1.11226611226611,1.11226611226611,1.11226611226611,0
+2,"6b_timing","overall","Expected Success Analysis (at least one Hi)","H1, H2, H3",1.11226611226611,1.11226611226611,1.11226611226611,1.11226611226611,1.11226611226611,0
+2,"6b_timing","overall","Expected Success Analysis (for all Hi)","H1, H2, H3",2.42097026604069,2.42097026604069,2.42097026604069,2.42097026604069,2.42097026604069,0
+2,"6b_timing","overall","Expected Success Time","H1",28.3263423023923,28.3263423023923,28.3263423023923,28.3263423023923,28.3263423023923,0
+2,"6b_timing","overall","Expected Success Time","H2",34.3760960404432,34.3760960404432,34.3760960404432,34.3760960404432,34.3760960404432,0
+2,"6b_timing","overall","Expected Success Time","H3",35.4203519757917,35.4203519757917,35.4203519757917,35.4203519757917,35.4203519757917,0
+2,"6b_timing","overall","Expected Success Time (at least one Hi)","H1, H2",28.5792709031117,28.5792709031117,28.5792709031117,28.5792709031117,28.5792709031117,0
+2,"6b_timing","overall","Expected Success Time (at least one Hi)","H1, H2, H3",28.5792709031117,28.5792709031117,28.5792709031117,28.5792709031117,28.5792709031117,0
+2,"6b_timing","overall","Expected Success Time (for all Hi)","H1, H2, H3",35.3458052790605,35.3458052790605,35.3458052790605,35.3458052790605,35.3458052790605,0
+3,"6a_power","1","Power","H1",0.882,0.882,0.896,0.882,0.896,0.014
+3,"6a_power","1","Power","H2",0.296,0.296,0.296,0.296,0.296,0
+3,"6a_power","1","Power","H3",0.482,0.482,0.133,0.482,0.133,0.349
+3,"6a_power","1","Probability of success for at least one Hi","H1, H2",0.919,0.919,0.927,0.919,0.927,0.00800000000000001
+3,"6a_power","1","Probability of success for at least one Hi","H1, H2, H3",0.952,0.952,0.927,0.952,0.927,0.0249999999999999
+3,"6a_power","1","Probability of success for all Hi","H1, H2, H3",0.125,0.125,0.125,0.125,0.125,0
+3,"6a_power","2","Power","H1",0.913,0.913,0.918,0.913,0.918,0.005
+3,"6a_power","2","Power","H2",0.708,0.708,0.722,0.708,0.722,0.014
+3,"6a_power","2","Power","H3",0.842,0.842,0.621,0.842,0.621,0.221
+3,"6a_power","2","Probability of success for at least one Hi","H1, H2",0.959,0.959,0.967,0.959,0.967,0.00800000000000001
+3,"6a_power","2","Probability of success for at least one Hi","H1, H2, H3",0.989,0.989,0.967,0.989,0.967,0.022
+3,"6a_power","2","Probability of success for all Hi","H1, H2, H3",0.588,0.588,0.591,0.588,0.591,0.003
+3,"6a_power","3","Power","H1",0.92,0.92,0.924,0.92,0.924,0.004
+3,"6a_power","3","Power","H2",0.821,0.821,0.827,0.821,0.827,0.00600000000000001
+3,"6a_power","3","Power","H3",0.913,0.913,0.762,0.913,0.762,0.151
+3,"6a_power","3","Probability of success for at least one Hi","H1, H2",0.975,0.975,0.979,0.975,0.979,0.004
+3,"6a_power","3","Probability of success for at least one Hi","H1, H2, H3",0.995,0.995,0.979,0.995,0.979,0.016
+3,"6a_power","3","Probability of success for all Hi","H1, H2, H3",0.72,0.72,0.722,0.72,0.722,0.002
+3,"6a_power","4","Power","H1",0.926,0.926,0.928,0.926,0.928,0.002
+3,"6a_power","4","Power","H2",0.887,0.887,0.892,0.887,0.892,0.005
+3,"6a_power","4","Power","H3",0.954,0.954,0.851,0.954,0.851,0.103
+3,"6a_power","4","Probability of success for at least one Hi","H1, H2",0.984,0.984,0.987,0.984,0.987,0.003
+3,"6a_power","4","Probability of success for at least one Hi","H1, H2, H3",1,1,0.987,1,0.987,0.013
+3,"6a_power","4","Probability of success for all Hi","H1, H2, H3",0.801,0.801,0.804,0.801,0.804,0.003
+3,"6b_timing","overall","Expected Success Analysis ","H1",1.06803455723542,1.06803455723542,1.04956896551724,1.06803455723542,1.04956896551724,0.0184655917181797
+3,"6b_timing","overall","Expected Success Analysis ","H2",1.94250281848929,1.94250281848929,1.93161434977578,1.94250281848929,1.93161434977578,0.0108884687135051
+3,"6b_timing","overall","Expected Success Analysis ","H3",1.65513626834382,1.65513626834382,2.21856639247944,1.65513626834382,2.21856639247944,0.563430124135621
+3,"6b_timing","overall","Expected Success Analysis (at least one Hi)","H1, H2",1.10060975609756,1.10060975609756,1.08915906788247,1.10060975609756,1.08915906788247,0.0114506882150889
+3,"6b_timing","overall","Expected Success Analysis (at least one Hi)","H1, H2, H3",1.064,1.064,1.08915906788247,1.064,1.08915906788247,0.025159067882472
+3,"6b_timing","overall","Expected Success Analysis (for all Hi)","H1, H2, H3",2.21098626716604,2.21098626716604,2.21144278606965,2.21098626716604,2.21144278606965,0.000456518903609648
+3,"6b_timing","overall","Expected Success Time","H1",28.3813088944705,28.3813088944705,28.2769645246574,28.3813088944705,28.2769645246574,0.10434436981306
+3,"6b_timing","overall","Expected Success Time","H2",33.2264460976607,33.2264460976607,33.1467191731627,33.2264460976607,33.1467191731627,0.0797269244979546
+3,"6b_timing","overall","Expected Success Time","H3",31.5515262177141,31.5515262177141,34.8122847828682,31.5515262177141,34.8122847828682,3.26075856515407
+3,"6b_timing","overall","Expected Success Time (at least one Hi)","H1, H2",28.5704234806379,28.5704234806379,28.5013779207029,28.5704234806379,28.5013779207029,0.0690455599350273
+3,"6b_timing","overall","Expected Success Time (at least one Hi)","H1, H2, H3",28.3497088246537,28.3497088246537,28.5013779207029,28.3497088246537,28.5013779207029,0.151669096049119
+3,"6b_timing","overall","Expected Success Time (for all Hi)","H1, H2, H3",34.7523304190308,34.7523304190308,34.7566159301117,34.7523304190308,34.7566159301117,0.00428551108097253
+4,"6a_power","1","Power","H1",0.879,0.879,0.879,0.879,0.879,0
+4,"6a_power","1","Power","H2",0.285,0.285,0.285,0.285,0.285,0
+4,"6a_power","1","Power","H3",0.124,0.124,0.124,0.124,0.124,0
+4,"6a_power","1","Probability of success for at least one Hi","H1, H2",0.916,0.916,0.916,0.916,0.916,0
+4,"6a_power","1","Probability of success for at least one Hi","H1, H2, H3",0.916,0.916,0.916,0.916,0.916,0
+4,"6a_power","1","Probability of success for all Hi","H1, H2, H3",0.116,0.116,0.116,0.116,0.116,0
+4,"6a_power","2","Power","H1",0.911,0.911,0.911,0.911,0.911,0
+4,"6a_power","2","Power","H2",0.727,0.727,0.727,0.727,0.727,0
+4,"6a_power","2","Power","H3",0.628,0.628,0.628,0.628,0.628,0
+4,"6a_power","2","Probability of success for at least one Hi","H1, H2",0.963,0.963,0.963,0.963,0.963,0
+4,"6a_power","2","Probability of success for at least one Hi","H1, H2, H3",0.963,0.963,0.963,0.963,0.963,0
+4,"6a_power","2","Probability of success for all Hi","H1, H2, H3",0.594,0.594,0.594,0.594,0.594,0
+4,"6a_power","3","Power","H1",0.918,0.918,0.918,0.918,0.918,0
+4,"6a_power","3","Power","H2",0.828,0.828,0.828,0.828,0.828,0
+4,"6a_power","3","Power","H3",0.77,0.77,0.77,0.77,0.77,0
+4,"6a_power","3","Probability of success for at least one Hi","H1, H2",0.975,0.975,0.975,0.975,0.975,0
+4,"6a_power","3","Probability of success for at least one Hi","H1, H2, H3",0.975,0.975,0.975,0.975,0.975,0
+4,"6a_power","3","Probability of success for all Hi","H1, H2, H3",0.725,0.725,0.725,0.725,0.725,0
+4,"6a_power","4","Power","H1",0.925,0.925,0.925,0.925,0.925,0
+4,"6a_power","4","Power","H2",0.891,0.891,0.891,0.891,0.891,0
+4,"6a_power","4","Power","H3",0.853,0.853,0.853,0.853,0.853,0
+4,"6a_power","4","Probability of success for at least one Hi","H1, H2",0.984,0.984,0.984,0.984,0.984,0
+4,"6a_power","4","Probability of success for at least one Hi","H1, H2, H3",0.984,0.984,0.984,0.984,0.984,0
+4,"6a_power","4","Probability of success for all Hi","H1, H2, H3",0.804,0.804,0.804,0.804,0.804,0
+4,"6b_timing","overall","Expected Success Analysis ","H1",1.07243243243243,1.07243243243243,1.07243243243243,1.07243243243243,1.07243243243243,0
+4,"6b_timing","overall","Expected Success Analysis ","H2",1.93490460157127,1.93490460157127,1.93490460157127,1.93490460157127,1.93490460157127,0
+4,"6b_timing","overall","Expected Success Analysis ","H3",2.21570926143025,2.21570926143025,2.21570926143025,2.21570926143025,2.21570926143025,0
+4,"6b_timing","overall","Expected Success Analysis (at least one Hi)","H1, H2",1.09959349593496,1.09959349593496,1.09959349593496,1.09959349593496,1.09959349593496,0
+4,"6b_timing","overall","Expected Success Analysis (at least one Hi)","H1, H2, H3",1.09959349593496,1.09959349593496,1.09959349593496,1.09959349593496,1.09959349593496,0
+4,"6b_timing","overall","Expected Success Analysis (for all Hi)","H1, H2, H3",2.21517412935323,2.21517412935323,2.21517412935323,2.21517412935323,2.21517412935323,0
+4,"6b_timing","overall","Expected Success Time","H1",26.2400904366609,26.2400904366609,26.2400904366609,26.2400904366609,26.2400904366609,0
+4,"6b_timing","overall","Expected Success Time","H2",30.4728651743023,30.4728651743023,30.4728651743023,30.4728651743023,30.4728651743023,0
+4,"6b_timing","overall","Expected Success Time","H3",31.8810904696086,31.8810904696086,31.8810904696086,31.8810904696086,31.8810904696086,0
+4,"6b_timing","overall","Expected Success Time (at least one Hi)","H1, H2",26.3730315610371,26.3730315610371,26.3730315610371,26.3730315610371,26.3730315610371,0
+4,"6b_timing","overall","Expected Success Time (at least one Hi)","H1, H2, H3",26.3730315610371,26.3730315610371,26.3730315610371,26.3730315610371,26.3730315610371,0
+4,"6b_timing","overall","Expected Success Time (for all Hi)","H1, H2, H3",31.879119492774,31.879119492774,31.879119492774,31.879119492774,31.879119492774,0
